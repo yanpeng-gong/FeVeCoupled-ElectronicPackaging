@@ -12,7 +12,6 @@ Coupled Finite Element-Virtual Element method for elasticity analysis of electro
 
 - **Hybrid FE-VE approach** combining FEM's computational efficiency with VEM's geometric flexibility
 - **Electronic packaging applications** for sintered silver interconnects, FC-BGA packages, and IGBT modules
-- **Modular code structure** with separate FEM, VEM, and coupling implementations
 - **Validated examples** from published research
 
 ## Requirements
