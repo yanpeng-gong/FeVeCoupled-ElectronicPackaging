@@ -17,7 +17,7 @@ Coupled Finite Element-Virtual Element method for elasticity analysis of electro
 ## Requirements
 
 - MATLAB R2020a or later
-- 
+
 ## Citation
 
 If you use this code in your research, please cite:
